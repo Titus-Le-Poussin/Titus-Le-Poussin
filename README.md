@@ -11,7 +11,7 @@
 - Exploring new **AI** and **web development** technologies.  
 
 ### 🌱 Currently learning:  
-- **Python, Git, GitHub, C++, Java, and Web Development**.  
+- **Python, Git, GitHub, C++, Java, Pandas, HTML, CSS, C**.  
 - Deepening my knowledge in **AI** and **machine learning**.  
 
 ### 📫 How to reach me:  
